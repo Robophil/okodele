@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Robophil/okodele#readme",
   "dependencies": {
-    "bootbot": "^1.0.12"
+    "bootbot": "^1.0.12",
+    "config": "^1.26.1"
   }
 }
