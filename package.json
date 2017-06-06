@@ -1,0 +1,29 @@
+{
+  "name": "okodele",
+  "version": "0.0.1",
+  "description": "facebook bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robophil/okodele.git"
+  },
+  "keywords": [
+    "bot",
+    "messenger",
+    "facebook",
+    "okodele",
+    "node"
+  ],
+  "author": "Balogun Oghenerob Philip <robophil>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robophil/okodele/issues"
+  },
+  "homepage": "https://github.com/Robophil/okodele#readme",
+  "dependencies": {
+    "bootbot": "^1.0.12"
+  }
+}
