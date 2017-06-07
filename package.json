@@ -4,7 +4,8 @@
   "description": "facebook bot",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,7 @@
   "homepage": "https://github.com/Robophil/okodele#readme",
   "dependencies": {
     "bootbot": "^1.0.12",
-    "config": "^1.26.1"
+    "config": "^1.26.1",
+    "node-wit": "^4.2.0"
   }
 }
